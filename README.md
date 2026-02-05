@@ -72,7 +72,7 @@ An intelligent interview preparation platform powered by AI that helps job seeke
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/Prabhat2912/ai-mock-interview.git
+   git clone https://github.com/amadhurg0103/ai-mock-interview.git
    cd ai-mock-interview
    ```
 
